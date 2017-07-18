@@ -1,5 +1,5 @@
 # PythonAlarm
-# Alarm Clock written in Python 3.6
+# Alarm Clock written with Python 3.6
 # Alarm Clock script I wrote when my alarm clock app started acting up
 # This is my first Python project I have ever written so please keep that in mind.
 # You will need to install pyglet if you do not have it
